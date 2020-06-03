@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29521.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutoMongoDBNetCore", "TutoMongoDBNetCore.csproj", "{6CFBB43F-5463-49E6-80F1-FB8FF77D28E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CFBB43F-5463-49E6-80F1-FB8FF77D28E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFBB43F-5463-49E6-80F1-FB8FF77D28E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFBB43F-5463-49E6-80F1-FB8FF77D28E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFBB43F-5463-49E6-80F1-FB8FF77D28E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AD0ADD2-F43D-44AD-90C4-F6EE5A13F7E0}
+	EndGlobalSection
+EndGlobal
